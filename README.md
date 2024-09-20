@@ -43,12 +43,14 @@ A implementação das ferramentas Amazon Lightsail, PrestaShop, Mautic e SuiteCR
 - [Pacote Bitnami para SuiteCRM](https://bitnami.com/stack/suitecrm/cloud/aws 'Pacote Bitnami para SuiteCRM')
 - [Guia do Usuário do SuiteCRM](https://docs.suitecrm.com/user/ 'Guia do Usuário do SuiteCRM')
 
-[Benefícios Amazon Lightsail](./anexos/beneficios-Amazon-Lightsail.md)
-[Benefícios PrestaShop](./anexos/beneficio-PrestaShop.md)
-[Benefícios Mautic](./anexos/beneficios-Mautic.md)
-[Benefícios SuiteCRM](./anexos/beneficios-SuiteCRM.md)
+### Benefícios
+- [Benefícios Amazon Lightsail](./anexos/beneficios-Amazon-Lightsail.md)
+- [Benefícios PrestaShop](./anexos/beneficio-PrestaShop.md)
+- [Benefícios Mautic](./anexos/beneficios-Mautic.md)
+- [Benefícios SuiteCRM](./anexos/beneficios-SuiteCRM.md)
 
-[Estimativa de Custos](./anexos/estimativa-de-custos.md)
+### Estimativa de Custos
+- [Estimativa de Custos](./anexos/estimativa-de-custos.md)
 
 **Assinatura do Responsável pelo Projeto:**  
 Mauro Cardoso Mortoni
