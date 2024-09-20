@@ -35,7 +35,6 @@ A implementação das ferramentas Amazon Lightsail, PrestaShop, Mautic e SuiteCR
 
 ## Anexos
 
-- [Lista de anexos: manuais, documentos, planilhas, entre outros]
 - [Preço do Amazon Lightsail](https://aws.amazon.com/pt/lightsail/pricing/ 'Preço do Amazon Lightsail')
 - [Configurar um site PrestaShop no Lightsail](https://docs.aws.amazon.com/pt_br/lightsail/latest/userguide/amazon-lightsail-quick-start-guide-prestashop.html 'Configurar um site PrestaShop no Lightsail')
 - [User Guide PrestaShop 8](https://docs.prestashop-project.org/v.8-documentation/user-guide 'User Guide PrestaShop 8')
